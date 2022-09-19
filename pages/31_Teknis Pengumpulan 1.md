@@ -4,19 +4,22 @@ class: text-center
 ---
 
 # Teknis Pengumpulan
+
 Pengerjaan dan pengumpulan tugas akan dilakukan di **Github Classroom**
 
 <div grid="~ cols-2 gap-2" style="margin-top: 48px">
   <div>
 
-  #### Kelas A:
-  [Link Tugas Kelas A]()
+#### Kelas A:
+
+[Link Tugas Kelas A](https://classroom.github.com/a/5lnpK0ry)
 
   </div>
   <div>
 
-  #### Kelas B:
-  [Link Tugas Kelas B]()
+#### Kelas B:
+
+[Link Tugas Kelas B](https://classroom.github.com/a/tzNpT3ml)
 
   </div>
 </div>

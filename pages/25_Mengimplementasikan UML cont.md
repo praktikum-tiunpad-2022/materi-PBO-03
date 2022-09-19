@@ -1,11 +1,8 @@
-
 # Mengimplementasikan UML Diagram
 
 Class diagram dari tabel sebelumnya sebagai berikut.
 
-<div class="relative flex justify-center">
-<div class="w-5/11 fixed top-3">
-
+<div class="w-md m-auto">
 
 ```mermaid
 classDiagram
@@ -53,5 +50,4 @@ classDiagram
     }
 ```
 
-</div>
 </div>
